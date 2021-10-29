@@ -67,3 +67,16 @@ Robinhood uses 23 applications as noted blow and runs its online services throug
 
 -Faust
 
+### Sources
+
+https://robinhood.com/us/en/about-us/
+
+https://www.thestreet.com/investing/behind-label-robinhood
+
+https://www.forbes.com/sites/jeffkauflin/2020/08/19/the-inside-story-of-robinhoods-billionaire-founders-option-kid-cowboys-and-the-wall-street-sharks-that-feed-on-them/?sh=7c241d268dce
+
+https://craft.co/robinhood/funding-rounds
+
+https://stackshare.io/robinhood/robinhood
+
+https://www.investopedia.com/robinhood-review-4587919
